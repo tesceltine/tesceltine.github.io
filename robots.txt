@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tesceltine.github.io/sitemap.html.gz
+Sitemap: https://tesceltine.github.io/app/sitemap.html.gz
+Sitemap: https://tesceltine.github.io/assets/sitemap.html.gz
+Sitemap: https://tesceltine.github.io/css/sitemap.html.gz
+Sitemap: https://tesceltine.github.io/data/sitemap.html.gz
+Sitemap: https://tesceltine.github.io/includes/sitemap.html.gz
+Sitemap: https://tesceltine.github.io/item/sitemap.html.gz
+Sitemap: https://tesceltine.github.io/src/sitemap.html.gz
